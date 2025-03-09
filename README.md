@@ -2,6 +2,8 @@
 
 这个项目是AI代码分析工具的前端部分，使用Vue 3和Vite构建。通过结合先进的人工智能技术，本系统能够对代码进行多维度分析，帮助开发者更快速地发现并解决代码中的问题，提高代码质量。
 
+后端项目地址：https://github.com/MochizukiSec/Ai-Code-Backend
+
 ## 项目截图
 <img width="1458" alt="WeCom20250307-232251@2x" src="https://github.com/user-attachments/assets/9df75deb-9a1d-4068-a7b4-4df2a2ef34cc" />
 

@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 自定义 Tailwind 样式 */
+@layer base {
+  html {
+    @apply antialiased;
+  }
+  
+  body {
+    @apply bg-gray-900 text-gray-100;
+  }
+}
+
+@layer components {
+  .nav-link {
+    @apply text-gray-300 hover:text-white transition-colors duration-200;
+  }
+  
+  .nav-link-active {
+    @apply text-white font-medium;
+  }
+} 

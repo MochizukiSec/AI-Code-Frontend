@@ -3,8 +3,12 @@
 这个项目是AI代码分析工具的前端部分，使用Vue 3和Vite构建。通过结合先进的人工智能技术，本系统能够对代码进行多维度分析，帮助开发者更快速地发现并解决代码中的问题，提高代码质量。
 
 ## 项目截图
+<img width="1458" alt="WeCom20250307-232251@2x" src="https://github.com/user-attachments/assets/9df75deb-9a1d-4068-a7b4-4df2a2ef34cc" />
 
-*(此处可以添加项目截图)*
+<img width="1458" alt="WeCom20250307-232306@2x" src="https://github.com/user-attachments/assets/91f6a921-a769-4bbe-9f7d-7c777cf5617e" />
+<img width="1458" alt="WeCom20250307-232325@2x" src="https://github.com/user-attachments/assets/cd98b426-510b-4ed0-b30c-8de58e08e913" />
+<img width="1458" alt="WeCom20250307-232317@2x" src="https://github.com/user-attachments/assets/4939b2e6-9973-4584-899c-a71ccea693f9" />
+
 
 ## 功能特性
 
@@ -209,8 +213,4 @@ server {
 
 ## 联系方式
 
-项目负责人: [您的名字](mailto:youremail@example.com)
-
----
-
-*本项目由[您的组织/公司名称]维护* 
+项目负责人: Liam
